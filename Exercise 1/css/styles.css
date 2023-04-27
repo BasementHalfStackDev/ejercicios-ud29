@@ -1,0 +1,30 @@
+#table-container {
+    display: inline-block;
+    padding: 5px;
+    border: 2px solid #28a2cc;;
+}
+
+table, th, td {
+    border: 3px solid #28a2cc;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+th {
+    color: #c0e9c3;
+    background-color: #013333;
+    text-align: center;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+td {
+    background-color: #ccffcc;
+    padding: 2px;
+    padding-right: 35px;
+}
+
+tr:nth-child(3) td {
+    background-color: #99cc99;
+}
