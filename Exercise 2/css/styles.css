@@ -1,0 +1,32 @@
+#table-container {
+    display: inline-block;
+    padding: 5px;
+    border: 2px solid #28a2cc;
+    background:linear-gradient(161deg, white, white, 50%, #7e8080 50%, #7e8080);
+}
+
+table, td, th {
+    border-collapse: collapse;
+    border: #1c9ecd 3px solid;
+}
+
+th {
+    color: #c7efc8;
+    background-color: #013333;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+td {
+    padding-right: 20px;
+    background-color: #ccffcc;
+}
+
+.activity-price {
+    text-align: center;
+    font-weight: bold;
+}
+
+tr:nth-child(4) td {
+    background-color: #99cc99;
+}
