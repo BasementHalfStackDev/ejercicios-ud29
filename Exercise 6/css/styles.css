@@ -1,0 +1,42 @@
+#table-container {
+    display: table;
+    margin: 0 auto;
+}
+
+table, td, th {
+    text-align: center;
+    padding: 2px;
+    border-collapse: separate;
+    border-spacing: 0px;
+    border: black 2px groove;
+    color: #ac4138  ;
+}
+
+th {
+    background-color: #669966;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+td {
+    background-image: url('../img/pawbackground.png');
+    background-repeat: repeat;
+    background-size: 200px 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+table tr:nth-child(2) td {
+    background-image: none;
+    background-color: #ffcc99;
+}
+
+table tr:nth-child(3) td {
+    background-image: none;
+    background-color: #fffd99;
+}
+
+.wider-td{
+    padding-left: 80px;
+    padding-right: 80px;
+}
