@@ -1,8 +1,6 @@
 # Exercicses Unit 29
 Exercises Unit 29 Hosted in GitHub Pages
 
-To view the pages through Github Pages, go here (https://basementhalfstackdev.github.io/ejercicios-ud29/).
-
 To view Exercise 1-1, please click [here](https://basementhalfstackdev.github.io/ejercicios-ud29/Exercise%201/donde1.html).
 
 To view Exercise 1-2, please click [here](https://basementhalfstackdev.github.io/ejercicios-ud29/Exercise%201/donde2.html).
